@@ -141,6 +141,11 @@ p {
 #box10{
    background-color: dodgerblue;
 }
+
+.about-plan{
+    display: flex;
+    flex-direction: row;
+}
 .bottom-content {
    display: flex;
    margin: 0 2% 20px;
