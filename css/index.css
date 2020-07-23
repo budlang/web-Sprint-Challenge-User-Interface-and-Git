@@ -177,8 +177,7 @@ footer nav {
 footer nav a {
    color: white;
    text-decoration: none;
-}
-.middle-content .boxes{
+}middle-content .boxes{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -236,3 +235,5 @@ header nav .navbar .contact{
     align-items: center;
     width:100%
 }
+
+.
